@@ -1,5 +1,5 @@
 The Raw data was exported from CSPro to Excel. <br>
-In cleaning the data, some columns were transformed to categorical variables.<br>
+In cleaning the data, some columns were transformed to categorical variables for easier analysis in STATA.<br>
 
 For education, it was based on the 2017 Philippine Standard Classification of Education (PSCED). <br>
 For sex, 0 = male, 1 = female. <br>
